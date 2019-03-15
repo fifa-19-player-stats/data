@@ -7,10 +7,10 @@
 --
 ### Data Scientists
     - A Apte
-    - Danielle Romanoff were the data scientists working on this project.
+    - Danielle Romanoff
 ---
 ### Danielle's Contributions
->Danielle Romanoff assisted in cleaning data after the raw data was split into three separate dataframes.
+> Danielle Romanoff assisted in cleaning data after the raw data was split into three separate dataframes.
 > Danielle created smaller dataframes including the Club with Club Logo to isolate the two.
 > Danielle changed all abbreviations for positions to a clear indication of what the position was.
 > Danielle created a couple groupby dataframes to connect player names to different skills. This
