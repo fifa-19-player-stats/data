@@ -1,8 +1,8 @@
 # BUILD WEEK 
 
-# FIFA Raw Dataset from Kaggle
+### FIFA Raw Dataset from Kaggle
 
-Contributions from A Apte:
+Contributions from A Apte (DS1):
 
 1) Data Cleaning of the raw Dataset (FIFA_19_Cleanup_to_JSON.ipynb)
 
